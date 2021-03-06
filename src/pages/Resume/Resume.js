@@ -1,6 +1,6 @@
 import "./Resume.css";
 
-export default function Resume() {
+function Resume() {
     return(
 <div class="container">
             <div class="row">

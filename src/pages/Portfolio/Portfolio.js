@@ -14,12 +14,12 @@ function Portfolio() {
           <div class="row">
             <div class="col-lg-6 col-md-6">
               <a href="https://dillonhoban.github.io/The_BEST_Brewery_Finder/" target="_blank">
-                <img class="placeholder" src="Assets/images/brewery_screenshot.jpg"
+                <img class="placeholder" src=".//.//public/brewery_screenshot.jpg"
                   alt="Image of Brewery Locator for Project 1" /> </a>
             </div>
             <div class="col-lg-6 col-md-6">
               <a href="https://oursuperduperawesomeproject2.herokuapp.com/" target="_blank">
-                <img class="placeholder" src="Assets/images/sc_of_fureverhome.jpg"
+                <img class="placeholder" src=".//.//public/sc_of_fureverhome.jpg"
                   alt="Image of Fur-Ever Home for Project 2" /> </a>
             </div>
           </div>
@@ -28,7 +28,7 @@ function Portfolio() {
           <div class="row">
             <div class="col-lg-6 col-md-6">
               <a href="https://www.patchworktheatreco.com" target="_blank">
-                <img class="placeholder" src="Assets/images/sc_of_pw_website.jpg"
+                <img class="placeholder" src=".//.//public/sc_of_pw_website.jpg"
                   alt="Image of the Patchwork Theatre Website" /> </a>
             </div>
             <div class="col-lg-6 col-md-6">
